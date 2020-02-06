@@ -1,0 +1,10 @@
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/Calculatortest.dll
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/Calculatortest.pdb
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/Calculator.dll
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/nunit.framework.dll
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/Calculator.pdb
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/bin/Debug/nunit.framework.xml
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/obj/Debug/Calculatortest.csprojAssemblyReference.cache
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/obj/Debug/Calculatortest.csproj.CopyComplete
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/obj/Debug/Calculatortest.dll
+/Users/holm/Documents/untitled folder 2/Calc_framework/Calculatortest/obj/Debug/Calculatortest.pdb
